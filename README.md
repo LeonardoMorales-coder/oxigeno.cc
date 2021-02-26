@@ -3,7 +3,7 @@
 Sistema de reportes de disponibilidad de oxigeno en la CDMX. Favor de reportar cualquier bug en la página de [issues](https://github.com/oxigenocc/oxigeno.cc/issues).
 
 ## Usa nuestra API gratuita
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/90220cc63e76e5062bfd)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/69624bc43b05a92a705a#?env%5Boxigeno_env%5D=W3sia2V5IjoibG9jYWxfdXJsIiwidmFsdWUiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvIiwiZW5hYmxlZCI6dHJ1ZX0seyJrZXkiOiJwcm9kX3VybCIsInZhbHVlIjoiaHR0cHM6Ly9kZXYtb3hpZ2Vuby5jZG14LmdvYi5teC8iLCJlbmFibGVkIjp0cnVlfV0=)
 
 ## ¿Quieres replicar esta página en tu ciudad?
 En un servidor que redireccione el puerto 443 al 8000 instala [docker](https://docs.docker.com/engine/install/ubuntu/) y [docker-compose](https://docs.docker.com/compose/install/), crea un archivo docker-compose.yaml y pega lo siguiente:
@@ -166,19 +166,21 @@ user@server:~$ sudo nginx -s reload
 
 ## Frontend
 
+[I'm an inline-style link](https://www.google.com)
 
 Contribuidores:
-* @klaymond
-* @dstprojects
-* @lorenzoajt 
-* @AlexisFlores17
-* @jorg-gr
+* Uri Goldberg Kleiman: [klaymond](https://github.com/klaymond)
+* Alexis Guerrero: [dstprojects](https://github.com/dstprojects)
+* Lorenzo Torres: https://github.com/lorenzoajt 
+* Alexis Flores: https://github.com/AlexisFlores17
+* Jorge García: https://github.com/jorg-gr
+* Lopsan: [LopsanAMO](https://github.com/LopsanAMO)
 
 Este proyecto no se pudo lograr sin el esfuerzo e iniciativa de Naoli García. El apoyo de las siguintes personas e instituciones fue indispensable:
 * Diana Urquiza
 * Mauro Herrera
 * Mijael Gutiérrez
 * LSD Lab
-* Agencia Digital de Innovació Pública de la CDMX
+* Agencia Digital de Innovación Pública de la CDMX
 * Tec de Monterrey
 
