@@ -105,4 +105,13 @@ class DistribuidorPotencial(models.Model):
 
     def __str__(self):
         return self.nombre_distribuidor
-        
+    
+
+class Sitio(models.Model):
+    id = models.AutoField(primary_key=True)
+    link = models.CharField(max_length=200)
+    lugar_nombre_oficial = models.CharField(max_length=200)
+    lugar_nombre_interno = models.CharField(max_length=200)
+    lugar_display_value = models.CharField(max_length=200)
+    history = HistoricalRecords()
+    
